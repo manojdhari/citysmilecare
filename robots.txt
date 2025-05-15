@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.citysmilecare.com/sitemap.xml
+Sitemap: https://www.citysmilecare.com/rss.xml
+Sitemap: https://www.citysmilecare.com/sitemap.html
